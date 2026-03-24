@@ -1,4 +1,4 @@
-Muhammad Sani Bello
+👋 Muhammad Sani Bello
 
 🎓 Computer Science Student
 💻 C# / .NET Developer in Training
@@ -6,31 +6,31 @@ Muhammad Sani Bello
 
 ---
 
-👋 About Me
+🌟 About Me
 
-I am a disciplined Computer Science student focused on becoming a highly skilled and job-ready .NET developer before graduation.<br>
-I believe in mastering fundamentals deeply rather than chasing trends.<br>
+I am a disciplined Computer Science student focused on becoming a highly skilled and job-ready .NET developer before graduation.
+I believe in mastering fundamentals deeply rather than chasing trends.
 My approach is simple: understand clearly, build consistently, improve continuously.
 
 ---
 
 🎯 Core Focus
 
-Primary Language
+🖥 Primary Language
 
 - C#
 
-Backend Path
+⚙ Backend Path
 
 - ASP.NET Core (in progress)
 
-Supporting Web Fundamentals
+🌐 Supporting Web Fundamentals
 
 - HTML
 - CSS
 - JavaScript
 
-Tools
+🛠 Tools
 
 - Git & GitHub
 - Visual Studio
@@ -51,10 +51,10 @@ All projects reflect my growth and learning journey.
 
 📈 Current Goal (2026)
 
-- Master C# deeply
-- Strengthen data structures understanding
-- Transition confidently into ASP.NET Core
-- Prepare for internship opportunities
+- ✅ Master C# deeply
+- ✅ Strengthen data structures understanding
+- ✅ Transition confidently into ASP.NET Core
+- ✅ Prepare for internship opportunities
 
 ---
 
@@ -66,7 +66,15 @@ Skill over noise.
 
 ---
 
-📫 Open to collaboration, learning opportunities, and future internship roles.
+📂 Featured Work
+
+- 🔹 C# Foundations – Structured learning projects
+- 🔹 Console-based problem-solving applications
+- 🔹 Upcoming ASP.NET Core web projects
+
+---
+
+📫 Open to collaboration, learning opportunities, and future internship roles
 <!--
 **muhammadsanibello/muhammadsanibello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
