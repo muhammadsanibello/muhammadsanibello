@@ -1,12 +1,12 @@
 ## 👋 Muhammad Sani Bello
 
-🎓 Computer Science Student
-**💻 C# / .NET Developer in Training**
+🎓 Computer Science Student 
+💻 **C# / .NET developer in training** 
 🌍 Nigeria
 
 ---
 
-##🌟 About Me
+## 🌟 About Me
 
 I am a disciplined Computer Science student focused on becoming a highly skilled and job-ready **.NET developer** before graduation.
 I believe in mastering fundamentals deeply rather than chasing trends.
@@ -14,7 +14,7 @@ My approach is simple: **understand clearly, build consistently, improve continu
 
 ---
 
-##🎯 Core Focus
+## 🎯 Core Focus
 
 **🖥 Primary Language**
 
@@ -38,7 +38,7 @@ My approach is simple: **understand clearly, build consistently, improve continu
 
 ---
 
-##🚀 What I Am Building
+## 🚀 What I Am Building
 
 - Structured **C# console applications**
 - Strong **Object-Oriented Programming (OOP)** foundations
@@ -49,16 +49,16 @@ All projects reflect my growth data learning journey.
 
 ---
 
-##📈 Current Goal (2026)
+## 📈 Current Goal (2026)
 
 - ✅ Master C# deeply
 - ✅ Strengthen **data structures**.
-- ✅ Transition confidently into ASP.NET Core
+- ✅ Transition confidently into **ASP.NET Core**
 - ✅ Prepare for internship opportunities
 
 ---
 
-💡 Philosophy
+## 💡 Philosophy
 
 Depth over hype.
 Consistency over motivation.
@@ -66,17 +66,15 @@ Skill over noise.
 
 ---
 
-📂 Featured Work
+## 📂 Featured Work
 
-- 🔹 C# Foundations – Structured learning projects
+- 🔹 **C# Foundations** – Structured learning projects
 - 🔹 Console-based problem-solving applications
-- 🔹 Upcoming ASP.NET Core web projects
+- 🔹 Upcoming **ASP.NET Core web** projects
 
 ---
 
-📫 Open to collaboration, learning opportunities, and future internship roles
-<!--
-**muhammadsanibello/muhammadsanibello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHubprofilee.
+- **📫 Open to collaboration, learning opportunities, and future internshiinterns**hip ip**muhammadsanibello/muhammadsanibello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHubprofilee.
 
 Here are some ideas to get you started:
 
