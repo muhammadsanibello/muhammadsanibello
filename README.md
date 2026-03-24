@@ -46,7 +46,7 @@ My approach is simple: **understand clearly, build consistently, improve continu
 - Problem-solving skills through practical projects
 - Clean and readable code
 
-All projects reflect my growth data learning journey.
+All projects reflect my growth and learning journey.
 
 ---
 
@@ -75,4 +75,4 @@ Skill over noise.
 
 ---
 
-- **📫 Open to collaboration, learning opportunities, and future internshiinterns**
+- **📫 Open to collaboration, learning opportunities, and future internship roles**
