@@ -1,8 +1,8 @@
 
 Muhammad Sani Bello
 
-🎓 Computer Science Student
-💻 C# / .NET Developer in Training
+🎓 Computer Science Student 
+💻 C# / .NET Developer in Training 
 🌍 Nigeria
 
 ---
