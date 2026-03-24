@@ -67,37 +67,6 @@ Skill over noise.
 ---
 
 📫 Open to collaboration, learning opportunities, and future internship roles.
----
-
-🚀 What I Am Building
-
-- Structured C# console applications
-- Strong Object-Oriented Programming (OOP) foundations
-- Problem-solving skills through practical projects
-- Clean and readable code
-
-All projects reflect my growth and learning journey.
-
----
-
-📈 Current Goal (2026)
-
-- Master C# deeply
-- Strengthen data structures understanding
-- Transition confidently into ASP.NET Core
-- Prepare for internship opportunities
-
----
-
-💡 Philosophy
-
-Depth over hype.
-Consistency over motivation.
-Skill over noise.
-
----
-
-📫 Open to collaboration, learning opportunities, and future internship roles.
 <!--
 **muhammadsanibello/muhammadsanibello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
