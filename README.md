@@ -1,4 +1,4 @@
-##👋 Muhammad Sani Bello
+## 👋 Muhammad Sani Bello
 
 🎓 Computer Science Student
 **💻 C# / .NET Developer in Training**
