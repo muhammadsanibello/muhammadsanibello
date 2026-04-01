@@ -1,78 +1,42 @@
-## 👋 Muhammad Sani Bello
+# Hi, I'm Muhammad Sani Bello 👋
 
-🎓 Computer Science Student 
-💻 **C# / .NET developer in training** 
-🌍 Nigeria
-
-
----
-
-## 🌟 About Me
-
-I am a disciplined Computer Science student focused on becoming a highly skilled and job-ready **.NET developer** before graduation.
-I believe in mastering fundamentals deeply rather than chasing trends.
-My approach is simple: **understand clearly, build consistently, improve continuously**.
+🎓 Computer Science Student (Nigeria)
+💻 Aspiring Full-Stack Developer (C# / .NET Focus)
+🚀 Building projects and improving my problem-solving skills
 
 ---
 
-## 🎯 Core Focus
+## 🧠 What I'm Learning
 
-**🖥 Primary Language**
-
-- C#
-
-**⚙ Backend Path**
-
-- ASP.NET Core (in progress)
-
-**🌐 Supporting Web Fundamentals**
-
-- HTML
-- CSS
-- JavaScript
-
-**🛠 Tools**
-
-- Git & GitHub
-- Visual Studio
-- VS Code
+* C# Programming
+* Problem Solving & Logic
+* Backend Development with .NET
 
 ---
 
-## 🚀 What I Am Building
+## 🛠 What I'm Building
 
-- Structured **C# console applications**
-- Strong **Object-Oriented Programming (OOP)** foundations
-- Problem-solving skills through practical projects
-- Clean and readable code
-
-All projects reflect my growth and learning journey.
+* Structured C# projects
+* Real-world mini applications
+* A consistent GitHub portfolio
 
 ---
 
-## 📈 Current Goal (2026)
+## 📂 Featured Project
 
-- ✅ Master C# deeply
-- ✅ Strengthen **data structures**.
-- ✅ Transition confidently into **ASP.NET Core**
-- ✅ Prepare for internship opportunities
+📌 **C# Foundations Repository**
+A structured collection of my learning journey and projects.
 
 ---
 
-## 💡 Philosophy
+## 🎯 My Goal
 
-Depth over hype.
-Consistency over motivation.
-Skill over noise.
+To become a highly skilled developer and build impactful solutions for real-world problems.
 
 ---
 
-## 📂 Featured Work
+## 📈 Mindset
 
-- 🔹 **C# Foundations** – Structured learning projects
-- 🔹 Console-based problem-solving applications
-- 🔹 Upcoming **ASP.NET Core web** projects
+Consistency • Discipline • Continuous Learning
 
 ---
-
-- **📫 Open to collaboration, learning opportunities, and future internship roles**
